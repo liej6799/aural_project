@@ -1,0 +1,5 @@
+C:\data\aural\aural_api\aural_model_lib\bin\Debug\netcoreapp2.2\aural_model_lib.deps.json
+C:\data\aural\aural_api\aural_model_lib\bin\Debug\netcoreapp2.2\aural_model_lib.dll
+C:\data\aural\aural_api\aural_model_lib\obj\Debug\netcoreapp2.2\aural_model_lib.csproj.CoreCompileInputs.cache
+C:\data\aural\aural_api\aural_model_lib\obj\Debug\netcoreapp2.2\aural_model_lib.AssemblyInfoInputs.cache
+C:\data\aural\aural_api\aural_model_lib\obj\Debug\netcoreapp2.2\aural_model_lib.AssemblyInfo.cs
