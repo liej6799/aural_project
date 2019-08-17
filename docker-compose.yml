@@ -1,0 +1,8 @@
+ version: '3'
+ services:
+  aural_api_user:
+    image: "liej6799/aural_api_user"
+    ports:
+      - "8080:8080"
+
+      
